@@ -30,10 +30,12 @@
 
 ## Model Summary
 - The following is the summary of the final model used for training.
-![alt text](<Screenshot 2024-12-16 at 11.42.07 PM.png>)
+<img width="680" alt="Screenshot 2024-12-16 at 11 42 07 PM" src="https://github.com/user-attachments/assets/0a1b3e74-4809-4543-8b7d-b1a584e1c443" />
+
 
 ## Model Evaluation
-- ![alt text](image.png)
+- ![image](https://github.com/user-attachments/assets/9431aa9d-7eff-4917-a75b-39723dde9e79)
+
 
 ## Conclusions
 - Dropouts and batch norm were instrumental in mitigating overfitting during the model training phase.
